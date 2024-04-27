@@ -1,9 +1,9 @@
 import { v2 as cloudinary } from "cloudinary";
-import {
+/* import {
   API_KEY_CLOUDINARY,
   API_SECRET_CLOUDINARY,
   CLOUD_NAME,
-} from "../config";
+} from "../config"; */
 
 cloudinary.config({
   cloud_name: 'dxi9fwjsu',
