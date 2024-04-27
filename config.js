@@ -9,4 +9,4 @@ export const MY_DOMAIN = process.env.MY_DOMAIN
 
 export const API_KEY_CLOUDINARY = process.env.API_KEY_CLOUDINARY
 export const API_SECRET_CLOUDINARY = process.env.API_SECRET_CLOUDINARY
-export const  CLOUD_NAME= process.env.CLOUD_NAME
+export const  CLOUD_NAME = process.env.CLOUD_NAME
